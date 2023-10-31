@@ -29,7 +29,12 @@ theme:
       primary: teal
       accent: lime
 
-
+nav:
+  - Home: 'index.md'
+  - Phenopackets: 'phenopackets.md'
+  - Annotations:
+    - Intro: 'annotations/introduction.md'
+    - "phenotype.hpoa": "annotations/phenotype_hpoa.md"
 
 
 plugins:

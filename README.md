@@ -1,2 +1,6 @@
 # hpo-docs
-Documentation for the Human Phenotype Ontology
+
+MOVED TO 
+
+- https://github.com/obophenotype/human-phenotype-ontology
+- https://obophenotype.github.io/human-phenotype-ontology/
